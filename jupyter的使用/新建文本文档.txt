@@ -1,0 +1,4 @@
+pip install jupyter
+
+1. cmd中    cd 到某一文件夹
+jupyter notebook回车后自己跳到浏览器
